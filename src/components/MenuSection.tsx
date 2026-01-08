@@ -31,12 +31,12 @@ const burgers: MenuItem[] = [
   },
   {
     id: 3,
-    name: "INFERNO BBQ",
+    name: "SUNSET BBQ",
     description: "Costela desfiada, onion rings, barbecue defumado, jalapeño",
     price: "R$ 42,90",
-    emoji: "🔥",
-    tag: "APIMENTADO",
-    tagColor: "from-orange-500 to-primary",
+    emoji: "🌅",
+    tag: "DEFUMADO",
+    tagColor: "from-orange-400 to-amber-500",
   },
   {
     id: 4,
